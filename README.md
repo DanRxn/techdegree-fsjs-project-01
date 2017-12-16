@@ -1,1 +1,1 @@
-# techdegree-fsjs-project-1
+# FSJS Techdegree Project 1
